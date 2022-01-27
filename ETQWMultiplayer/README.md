@@ -6,7 +6,7 @@ For even more up to date instructions go to [TAW's Discord](https://discordapp.c
 
 ## As a player
 
-1. Download the Community Installer for ETQW: [qwsetup.iso](http://etqw.taw.net/qw/qwsetup.iso) 7.6 GBs.
+1. Download the Community Installer for ETQW: [qwsetup.iso](http://etqw.taw.net/qw/qwsetup.iso) 7.6 GBs. (Right-Click -> Save Link As)
 2. Extract `qwsetup.iso` to a folder of your choosing (probably named ETQW) as though it were a zip file.
 3. You will now see a folder structure like this
 
