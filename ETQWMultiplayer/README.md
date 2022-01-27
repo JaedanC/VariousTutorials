@@ -50,7 +50,7 @@ Steps as a host require you to perform above, but also perform server hosting an
 4. When you or one of the clients joins the server they will appear under `Members` down below. Check the box next to their name that says `Auth`. Optionally, give them a name so you know which computer is which. It is important here that you know which computer in this list is *your* computer that is hosting the server.
 5. Make note of your computer's `Managed IP` (under `Members` still) while your friends are connecting to the network.
 6. When done, you may host the ETQW server using `serverlauncher.exe` in the `ETQW` folder.
-7. The server launcher allows you to configure the server however you please. If you wish to change the `Game` setting, then each player must run the corresponding `START_****.bat` file to start the game. This can be left as protourney. One setting you should change is to enable the setting `LAN Server`. Once you are happy with the settings, start the server.
+7. The server launcher allows you to configure the server however you please. If you wish to change the `Game` setting, then each player must run the corresponding `START_****.bat` file to start the game. This can be left as protourney. One setting you should check is that the setting `LAN Server` is *disabled* (I know it's a bit contradictory). Once you are happy with the settings, start the server.
 8. You and your friends can now continue from step 11 above making sure to use the `Managed IP` of your computer as the `<ip-address>` is `connect` command that you noted down earlier.
 
 ## Additional links
